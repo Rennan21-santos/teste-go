@@ -1,0 +1,2 @@
+# teste-go
+favicon1
